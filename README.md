@@ -8,14 +8,14 @@ Hi there! I'm a Full Stack Developer with experience in both individual and team
 
 - 📱 +4917640483094
 - 📧 dsamus.dev@gmail.com
-- 💬 [Telegram](https://t.me/[your_username])
-- 🌐 [GitHub](https://github.com/[your_username])
-- 🔗 [LinkedIn](https://www.linkedin.com/in/[your_profile])
+- 💬 [Telegram](https://t.me/dimitriysamus)
+- 🌐 [GitHub](https://github.com/samusdimitriy)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dimitriy-samus)
 
 ## Skills
 
 - **Frontend**: HTML5, CSS3, SASS, React, JavaScript, Redux, Redux Toolkit, React Router, Handlebars
-- **Build Tools**: Parcel, Webpack
+- **Build Tools**: Parcel, Webpack, Vite
 - **CSS-in-JS**: Styled-components
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose
 - **Other Technologies**: TypeScript (basic), React Native (basic), Git
@@ -30,31 +30,31 @@ Hi there! I'm a Full Stack Developer with experience in both individual and team
 ### Power-pulse, Freelance/Team work
 
 - September 2023 — September 2023, Berlin
-- [GitHub](link)
+- [GitHub](https://github.com/samusdimitriy/power-pulse)
 - Collaboratively worked on a team project utilizing React and Node.js to create a Fitness App. Played a key role in the design and development of the "Diary" section using HTML, SASS, JS, Parcel, BEM methodology, along with backend technologies like Node.js and MongoDB.
 
 ### Cinemania, Freelance/Team work
 
 - October 2023 — October 2023, Berlin
-- [GitHub](link)
+- [GitHub](https://github.com/samusdimitriy/cinemania)
 - Collaboratively developed an App component featuring both Public and Private routes, implementing AuthPage logic, for a movie selection application. Integrated HTML, SASS, JS, Handlebars, REST API, AJAX, and Parcel. Orchestrated the deployment of the application on Netlify for seamless access.
 
 ### Ice-cream, Freelance/Team work
 
 - February 2023 — March 2023, Berlin
-- [GitHub](link)
-- Played a vital role as the developer in charge of the Stravicy Products section within a collaborative, adaptive team project focused on creating a visually appealing and user-friendly landing page for an Ice-Cream Catalog website. Leveraged JavaScript, HTML, HTML5, Sass, and CSS3 to ensure a modern, responsive, and BEM-compliant design.
+- [GitHub](https://github.com/samusdimitriy/ice-cream)
+- Played a vital role as the developer in charge of the Products section within a collaborative, adaptive team project focused on creating a visually appealing and user-friendly landing page for an Ice-Cream Catalog website. Leveraged JavaScript, HTML, HTML5, Sass, and CSS3 to ensure a modern, responsive, and BEM-compliant design.
 
 ### Barber-shop, Freelance
 
 - August 2022 — September 2022, Berlin
-- [GitHub](link)
+- [GitHub](https://github.com/samusdimitriy/Barber-shop)
 - Developed and implemented the user interface for a barbershop web application using HTML, CSS, SCSS, and JavaScript. Ensured responsiveness and cross-browser compatibility for user convenience.
 
 ### Car-sharing, Freelance
 
 - October 2023 — October 2023, Berlin
-- [GitHub](link)
+- [GitHub](https://github.com/samusdimitriy/car-sharing)
 - Designed, developed, and deployed a personal web application for car rental services in Ukraine utilizing HTML, CSS, JavaScript, React, Webpack, and Mockapi. Implemented an intuitive user interface ensuring a seamless user experience.
 
 ## Work Experience
@@ -96,9 +96,9 @@ Hi there! I'm a Full Stack Developer with experience in both individual and team
 ## Languages
 
 - Ukrainian (native)
-- Russian (native)
 - German
 - English
+- Russian
 
 ## Hobbies
 
