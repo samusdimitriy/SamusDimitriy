@@ -17,10 +17,11 @@ Hi there! I'm a Full Stack Developer with experience in both individual and team
 - **Frontend**: HTML5, CSS3, SASS, React, JavaScript, Redux, Redux Toolkit, React Router, Handlebars
 - **Build Tools**: Parcel, Webpack, Vite
 - **CSS-in-JS**: Styled-components
-- **Backend**: Node.js, Express.js, MongoDB, Mongoose
+- **CSS libraries**: Tailwind, Material, Animate, Bootstrap
+- **Backend**: Node.js, Express.js, Mongoose
 - **Other Technologies**: TypeScript (basic), React Native (basic), Git
 - **RESTful API**: Creation and consumption
-- **Cloud Services**: Heroku, Cloudinary
+- **Cloud Services**: Heroku, Cloudinary, MongoDB
 - **HTTP Requests**: Axios AJAX
 - **Responsive Design**: Adaptive layout
 - **Other Tools**: Lodash
@@ -102,7 +103,7 @@ Hi there! I'm a Full Stack Developer with experience in both individual and team
 
 ## Hobbies
 
-In my free time, I like to play the saxophone and continue learning jazz. I follow the development of artificial intelligence. In the future, I want to learn one more language, maybe Python. I'm interested in investing.
+In my free time, I like to play the saxophone and continue learning jazz. I follow the development of artificial intelligence. I'm currently learning Python.
 
 ## Soft Skills
 
